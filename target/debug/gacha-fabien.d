@@ -1,1 +1,1 @@
-E:\Code\projects\ Rust\gacha-fabien\target\debug\gacha-fabien.exe: E:\Code\projects\ Rust\gacha-fabien\src\main.rs E:\Code\projects\ Rust\gacha-fabien\src\randomness.rs
+/run/media/wabtey/WD\ ELEMENT/Code/projects_rust/gacha-fabien/target/debug/gacha-fabien: /run/media/wabtey/WD\ ELEMENT/Code/projects_rust/gacha-fabien/src/main.rs /run/media/wabtey/WD\ ELEMENT/Code/projects_rust/gacha-fabien/src/randomness.rs
